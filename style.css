@@ -1,0 +1,31 @@
+body{
+  background-size:cover;
+  background-position: center;
+}
+h1{
+  width: 100%;
+  margin: 0;
+  font-size: 35px !important;
+}
+#start{
+   font-size: 20px;
+}
+#number_of_objects, #status{
+  font-size: 20px;
+}
+canvas{
+  border: 5px solid white;
+  box-shadow: 5px 5px 5px white;
+  border-radius: 10px;
+  margin-top: 130px;
+}
+#fotter{
+  bottom: 0;
+  position: fixed;
+  background-color: rgb(69, 67, 67);
+  width: 100%;
+  text-align: center;
+  color: white;
+  line-height: 2;
+  font-size: 18px;
+}
